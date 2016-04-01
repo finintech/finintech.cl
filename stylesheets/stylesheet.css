@@ -57,7 +57,7 @@ a {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: http://finintech.github.io/finintech.cl/UNB7V2H5L4.jpg; }
+  background-image: url("http://finintech.github.io/finintech.cl/UNB7V2H5L4.jpg;"); }
 
 @media screen and (min-width: 64em) {
   .page-header {
